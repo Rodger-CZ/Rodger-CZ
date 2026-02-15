@@ -1,6 +1,6 @@
 # Hi, I'm Faustine Rodgers 👋
 
-**Data Analyst | Machine Learning | Python**
+**Data Scientist | Machine Learning | Python Developer | Database Admin**
 
 I specialize in turning data into actionable insights through analytics, predictive modeling, and business-focused solutions. My work spans multiple domains including **HR analytics, healthcare risk modeling, and operational analytics**.
 
